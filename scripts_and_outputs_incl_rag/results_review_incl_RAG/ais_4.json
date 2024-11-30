@@ -1,0 +1,361 @@
+{
+    "count": "7",
+    "stats_token": {
+        "data": {
+            "a": "javascript",
+            "g": "user_metrics",
+            "b": "search.user_experience",
+            ".authTX": 1732691466
+        },
+        "token": "DreT9ECdbDl53MvKt383/LOGO31ChQ"
+    },
+    "facet_counts": {
+        "facet_ranges": {},
+        "facet_fields": {
+            "publication_year": [
+                "2011",
+                "1",
+                "2012",
+                "1",
+                "2013",
+                "1",
+                "2015",
+                "1",
+                "2019",
+                "1",
+                "2020",
+                "1",
+                "2021",
+                "1"
+            ],
+            "publication_facet": [
+                "Al-Azhar Bulletin of Science",
+                "1",
+                "BAU Journal - Science and Technology",
+                "1",
+                "Baltic International Yearbook of Cognition, Logic and Communication",
+                "1",
+                "Chicago-Kent Law Review",
+                "1",
+                "Future Computing and Informatics Journal",
+                "1",
+                "Journal of Spatial Information Science",
+                "1",
+                "Richmond Journal of Law & Technology",
+                "1"
+            ],
+            "download_type": [
+                "PDF",
+                "7"
+            ],
+            "subject_facet": [
+                "A2J",
+                "1",
+                "AI",
+                "1",
+                "Access to Justice",
+                "1",
+                "Arabic corpus",
+                "1",
+                "Arabic text categorization",
+                "1",
+                "Artificial intelligence",
+                "1",
+                "Behavioral studies",
+                "1",
+                "CMMI",
+                "1",
+                "Capability Maturity Model Integration",
+                "1",
+                "Context",
+                "1",
+                "Curriculum",
+                "1",
+                "Deep learning",
+                "1",
+                "Description logic",
+                "1",
+                "Direction concepts",
+                "1",
+                "ESI",
+                "1",
+                "Electronically Stored Information",
+                "1",
+                "Federal Rules of Civil Procedure",
+                "1",
+                "Geographic information retrieval",
+                "1",
+                "Hickman v Taylor",
+                "1",
+                "In re Fannie Mae Securities Litigation",
+                "1",
+                "Law school",
+                "1",
+                "Legal education",
+                "1",
+                "Mathematics, Statistics, Computer Science, Physics and Astronomy",
+                "1",
+                "Multi-Agent; ontology; Human Computer Interaction (HCI); Information Retrieve (IR)",
+                "1",
+                "Ontology",
+                "1",
+                "Pension Committee of the University of Montreal Pension Plan v. Banc of America Securities",
+                "1",
+                "Qualitative spatial reasoning",
+                "1",
+                "Relevance",
+                "1",
+                "Semantic Similarity Measures.",
+                "1",
+                "Semantic similarity",
+                "1",
+                "Similarity measure",
+                "1",
+                "Text Similarity",
+                "1",
+                "The Sedona Conference Commentary on Achieving Quality in the E- Discovery Process",
+                "1",
+                "Trusz v. UBS Realty Investors LLC",
+                "1",
+                "United States v. O’Keefe",
+                "1",
+                "United States v. Philip Morris",
+                "1",
+                "Word Net",
+                "1",
+                "Word embedding",
+                "1"
+            ],
+            "discipline": [
+                "Social and Behavioral Sciences",
+                "3",
+                "Computer Sciences",
+                "2",
+                "Law",
+                "2",
+                "Physical Sciences and Mathematics",
+                "2",
+                "Cognition and Perception",
+                "1",
+                "Computer Engineering",
+                "1",
+                "Computer Law",
+                "1",
+                "Data Science",
+                "1",
+                "Engineering",
+                "1",
+                "Evidence",
+                "1",
+                "Geographic Information Sciences",
+                "1",
+                "Geography",
+                "1",
+                "Internet Law",
+                "1",
+                "Legal Education",
+                "1",
+                "Legal Profession",
+                "1",
+                "Life Sciences",
+                "1",
+                "Linguistics",
+                "1",
+                "Other Linguistics",
+                "1",
+                "Psychology",
+                "1",
+                "Science and Technology Studies",
+                "1"
+            ]
+        },
+        "facet_dates": {},
+        "facet_queries": {}
+    },
+    "context_title": "All repositories",
+    "num_found": "7",
+    "params_ta": "900000",
+    "docs": [
+        {
+            "document_type": [
+                "article",
+                "Research Article",
+                "Research Articles"
+            ],
+            "context_key": "3430253",
+            "institution_title": "The University of Maine",
+            "publication_title": "Journal of Spatial Information Science",
+            "author": [
+                "Krzysztof Janowicz",
+                "Martin Raubal",
+                "Werner Kuhn"
+            ],
+            "peer_reviewed": true,
+            "author_display": [
+                "Krzysztof Janowicz",
+                "Martin Raubal",
+                "Werner Kuhn"
+            ],
+            "publication_link": "http://digitalcommons.library.umaine.edu/josis",
+            "download_format": "pdf",
+            "url": "http://digitalcommons.library.umaine.edu/josis/vol2011/iss2/3",
+            "publication_date": "10/2012",
+            "title": "The semantics of similarity in geographic information retrieval",
+            "download_link": "https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1021&context=josis"
+        },
+        {
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "context_key": "4943917",
+            "institution_title": "Chicago-Kent College of Law",
+            "publication_title": "Chicago-Kent Law Review",
+            "author": [
+                "Kevin D. Ashley"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Kevin D. Ashley"
+            ],
+            "publication_link": "http://scholarship.kentlaw.iit.edu/cklawreview",
+            "download_format": "pdf",
+            "url": "http://scholarship.kentlaw.iit.edu/cklawreview/vol88/iss3/7",
+            "publication_date": "06/2013",
+            "title": "Teaching Law and Digital Age Legal Practice with an AI and Law Seminar",
+            "download_link": "https://scholarship.kentlaw.iit.edu/cgi/viewcontent.cgi?article=3979&context=cklawreview"
+        },
+        {
+            "document_type": [
+                "article"
+            ],
+            "context_key": "18101443",
+            "institution_title": "Association of Arab Universities",
+            "publication_title": "Future Computing and Informatics Journal",
+            "author": [
+                "Mohamed H. Haggag",
+                "Marwa M. A. ELFattah",
+                "Ahmed Mohammed Ahmed"
+            ],
+            "peer_reviewed": true,
+            "author_display": [
+                "Mohamed H. Haggag",
+                "Marwa M. A. ELFattah",
+                "Ahmed Mohammed Ahmed"
+            ],
+            "publication_link": "http://digitalcommons.aaru.edu.jo/fcij",
+            "download_format": "pdf",
+            "url": "http://digitalcommons.aaru.edu.jo/fcij/vol4/iss1/5",
+            "publication_date": "06/2020",
+            "title": "Similarity Evaluation Based on Contextual Modelling",
+            "download_link": "https://digitalcommons.aaru.edu.jo/cgi/viewcontent.cgi?article=1085&context=fcij"
+        },
+        {
+            "document_type": [
+                "original_article",
+                "Original Article",
+                "Original Articles"
+            ],
+            "context_key": "33796973",
+            "institution_title": "Al-Azhar University",
+            "publication_title": "Al-Azhar Bulletin of Science",
+            "author": [
+                "Eman Elsayed",
+                "AbdAllah ELHabashy",
+                "Raghda khaled"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Eman Elsayed",
+                "AbdAllah ELHabashy",
+                "Raghda khaled"
+            ],
+            "publication_link": "http://absb.researchcommons.org/journal",
+            "download_format": "pdf",
+            "url": "http://absb.researchcommons.org/journal/vol30/iss1/9",
+            "publication_date": "06/2019",
+            "title": "SEMANTIC NESTED SEARCH ENGINE VIA INTEGRATION ONTOLOGY WITH MULTI-AGENT SYSTEM",
+            "download_link": "https://absb.researchcommons.org/cgi/viewcontent.cgi?article=1518&context=journal"
+        },
+        {
+            "document_type": [
+                "proceeding",
+                "Proceeding of the Symposium for Cognition, Logic and Communication",
+                "Proceedings of the Symposium for Cognition, Logic and Communication"
+            ],
+            "context_key": "7895048",
+            "institution_title": "Kansas State University Libraries",
+            "publication_title": "Baltic International Yearbook of Cognition, Logic and Communication",
+            "author": [
+                "Alexander Klippel",
+                "Jan Oliver Wallgrün",
+                "Jinlong Yang",
+                "Kevin Sparks"
+            ],
+            "peer_reviewed": true,
+            "author_display": [
+                "Alexander Klippel",
+                "Jan Oliver Wallgrün",
+                "Jinlong Yang",
+                "Kevin Sparks"
+            ],
+            "publication_link": "http://newprairiepress.org/biyclc",
+            "download_format": "pdf",
+            "url": "http://newprairiepress.org/biyclc/vol10/iss1/3",
+            "publication_date": "12/2015",
+            "title": "Intuitive Direction Concepts",
+            "download_link": "https://newprairiepress.org/cgi/viewcontent.cgi?article=1103&context=biyclc"
+        },
+        {
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "context_key": "9050000",
+            "institution_title": "University of Richmond",
+            "publication_title": "Richmond Journal of Law & Technology",
+            "author": [
+                "Jason R. Baron"
+            ],
+            "peer_reviewed": true,
+            "author_display": [
+                "Jason R. Baron"
+            ],
+            "publication_link": "http://scholarship.richmond.edu/jolt",
+            "download_format": "pdf",
+            "url": "http://scholarship.richmond.edu/jolt/vol17/iss3/3",
+            "publication_date": "01/2011",
+            "title": "Law in the Age of Exabytes: Some further Thoughts on ‘Information Inflation’ and Current Issues in E-Discovery Search",
+            "download_link": "https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1342&context=jolt"
+        },
+        {
+            "document_type": [
+                "article"
+            ],
+            "context_key": "18125393",
+            "institution_title": "Beirut Arab University",
+            "publication_title": "BAU Journal - Science and Technology",
+            "author": [
+                "Roua A. Abou Khachfeh",
+                "Roua Abou Khachfeh",
+                "Islam El Kabani",
+                "Ziad Osman"
+            ],
+            "peer_reviewed": true,
+            "author_display": [
+                "Roua A. Abou Khachfeh",
+                "Islam El Kabani",
+                "Ziad Osman"
+            ],
+            "publication_link": "http://digitalcommons.bau.edu.lb/stjournal",
+            "download_format": "pdf",
+            "url": "http://digitalcommons.bau.edu.lb/stjournal/vol3/iss1/10",
+            "publication_date": "12/2021",
+            "title": "A NOVEL ARABIC CORPUS FOR TEXT CLASSIFICATION USING DEEP LEARNING AND WORD EMBEDDING",
+            "download_link": "https://digitalcommons.bau.edu.lb/cgi/viewcontent.cgi?article=1014&context=stjournal"
+        }
+    ],
+    "start": "0"
+}
