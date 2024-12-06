@@ -1,18 +1,20 @@
 {
-    "count": "7",
+    "count": "8",
     "stats_token": {
         "data": {
             "a": "javascript",
             "g": "user_metrics",
             "b": "search.user_experience",
-            ".authTX": 1732691466
+            ".authTX": 1733382827
         },
-        "token": "DreT9ECdbDl53MvKt383/LOGO31ChQ"
+        "token": "+THotmM7oxPLaiqjunsoELFKMGSVdI"
     },
     "facet_counts": {
         "facet_ranges": {},
         "facet_fields": {
             "publication_year": [
+                "2001",
+                "1",
                 "2011",
                 "1",
                 "2012",
@@ -37,6 +39,8 @@
                 "1",
                 "Chicago-Kent Law Review",
                 "1",
+                "Communications of the Association for Information Systems",
+                "1",
                 "Future Computing and Informatics Journal",
                 "1",
                 "Journal of Spatial Information Science",
@@ -46,12 +50,14 @@
             ],
             "download_type": [
                 "PDF",
-                "7"
+                "8"
             ],
             "subject_facet": [
                 "A2J",
                 "1",
                 "AI",
+                "1",
+                "ARRAY(0x7f8ceee711b0)",
                 "1",
                 "Access to Justice",
                 "1",
@@ -173,7 +179,7 @@
         "facet_queries": {}
     },
     "context_title": "All repositories",
-    "num_found": "7",
+    "num_found": "8",
     "params_ta": "900000",
     "docs": [
         {
@@ -202,29 +208,6 @@
             "publication_date": "10/2012",
             "title": "The semantics of similarity in geographic information retrieval",
             "download_link": "https://digitalcommons.library.umaine.edu/cgi/viewcontent.cgi?article=1021&context=josis"
-        },
-        {
-            "document_type": [
-                "article",
-                "Article",
-                "Articles"
-            ],
-            "context_key": "4943917",
-            "institution_title": "Chicago-Kent College of Law",
-            "publication_title": "Chicago-Kent Law Review",
-            "author": [
-                "Kevin D. Ashley"
-            ],
-            "peer_reviewed": false,
-            "author_display": [
-                "Kevin D. Ashley"
-            ],
-            "publication_link": "http://scholarship.kentlaw.iit.edu/cklawreview",
-            "download_format": "pdf",
-            "url": "http://scholarship.kentlaw.iit.edu/cklawreview/vol88/iss3/7",
-            "publication_date": "06/2013",
-            "title": "Teaching Law and Digital Age Legal Practice with an AI and Law Seminar",
-            "download_link": "https://scholarship.kentlaw.iit.edu/cgi/viewcontent.cgi?article=3979&context=cklawreview"
         },
         {
             "document_type": [
@@ -306,6 +289,56 @@
             "publication_date": "12/2015",
             "title": "Intuitive Direction Concepts",
             "download_link": "https://newprairiepress.org/cgi/viewcontent.cgi?article=1103&context=biyclc"
+        },
+        {
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "context_key": "634646",
+            "institution_title": "Association for Information Systems",
+            "publication_title": "Communications of the Association for Information Systems",
+            "author": [
+                "Wendy Lucas",
+                "William Schiano",
+                "Katherine Crosett"
+            ],
+            "peer_reviewed": true,
+            "author_display": [
+                "Wendy Lucas",
+                "William Schiano",
+                "Katherine Crosett"
+            ],
+            "publication_link": "http://aisel.aisnet.org/cais",
+            "download_format": "pdf",
+            "url": "http://aisel.aisnet.org/cais/vol5/iss1/8",
+            "publication_date": "01/2001",
+            "title": "The Present and Future of Internet Search",
+            "download_link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3116&context=cais"
+        },
+        {
+            "document_type": [
+                "article",
+                "Article",
+                "Articles"
+            ],
+            "context_key": "4943917",
+            "institution_title": "Chicago-Kent College of Law",
+            "publication_title": "Chicago-Kent Law Review",
+            "author": [
+                "Kevin D. Ashley"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Kevin D. Ashley"
+            ],
+            "publication_link": "http://scholarship.kentlaw.iit.edu/cklawreview",
+            "download_format": "pdf",
+            "url": "http://scholarship.kentlaw.iit.edu/cklawreview/vol88/iss3/7",
+            "publication_date": "06/2013",
+            "title": "Teaching Law and Digital Age Legal Practice with an AI and Law Seminar",
+            "download_link": "https://scholarship.kentlaw.iit.edu/cgi/viewcontent.cgi?article=3979&context=cklawreview"
         },
         {
             "document_type": [

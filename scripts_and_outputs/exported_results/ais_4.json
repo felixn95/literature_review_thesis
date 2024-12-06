@@ -1,0 +1,394 @@
+{
+    "count": "11",
+    "stats_token": {
+        "data": {
+            "a": "javascript",
+            "g": "user_metrics",
+            "b": "search.user_experience",
+            ".authTX": 1733382785
+        },
+        "token": "CGHXGCNKCxMtXiHYHSnY7eOFp7kwaM"
+    },
+    "facet_counts": {
+        "facet_ranges": {},
+        "facet_fields": {
+            "publication_year": [
+                "2024",
+                "6",
+                "2019",
+                "2",
+                "2016",
+                "1",
+                "2017",
+                "1",
+                "2023",
+                "1"
+            ],
+            "publication_facet": [
+                "Hawaii International Conference on System Sciences 2019 (HICSS-52)",
+                "2",
+                "Hawaii International Conference on System Sciences 2024 (HICSS-57)",
+                "2",
+                "ATU Research Symposium",
+                "1",
+                "C-Day Computing Showcase",
+                "1",
+                "GW Research Days 2016 - 2020",
+                "1",
+                "ICIS 2024 Proceedings",
+                "1",
+                "ONU Student Research Colloquium",
+                "1",
+                "Thesis/ Dissertation Defenses",
+                "1",
+                "UBT International Conference",
+                "1"
+            ],
+            "download_type": [
+                "PDF",
+                "8",
+                "None",
+                "2",
+                "MS Powerpoint",
+                "1"
+            ],
+            "subject_facet": [
+                "Artificial intelligence (ai)",
+                "1",
+                "Authorship",
+                "1",
+                "Authorship Attribution",
+                "1",
+                "ChatGPT Generated Code Detection",
+                "1",
+                "Code Analysis.",
+                "1",
+                "Code interpreter",
+                "1",
+                "Data analysis",
+                "1",
+                "Deep Learning",
+                "1",
+                "Deep learning",
+                "1",
+                "Density distribution",
+                "1",
+                "Design science",
+                "1",
+                "Electronic health records",
+                "1",
+                "Fake news",
+                "1",
+                "Fhir",
+                "1",
+                "Generative large language models (gllms)",
+                "1",
+                "Hanning window",
+                "1",
+                "Information retrieval",
+                "1",
+                "Keyword proximity",
+                "1",
+                "Knowledge retrieval",
+                "1",
+                "Linguistics",
+                "1",
+                "Lstm",
+                "1",
+                "Machine Learning",
+                "1",
+                "Mathematical problem-solving",
+                "1",
+                "Natural language processing",
+                "1",
+                "Natural language processing (nlp)",
+                "1",
+                "Neural networks",
+                "1",
+                "Question answering",
+                "1",
+                "Summarization",
+                "1",
+                "Zipf's law",
+                "1"
+            ],
+            "discipline": [
+                "Computer Sciences",
+                "5",
+                "Physical Sciences and Mathematics",
+                "5",
+                "Artificial Intelligence and Robotics",
+                "2",
+                "Computer Engineering",
+                "1",
+                "Engineering",
+                "1",
+                "Information Security",
+                "1",
+                "Software Engineering",
+                "1"
+            ]
+        },
+        "facet_dates": {},
+        "facet_queries": {}
+    },
+    "context_title": "All repositories",
+    "num_found": "11",
+    "params_ta": "900000",
+    "docs": [
+        {
+            "context_key": "37313535",
+            "institution_title": "Association for Information Systems",
+            "publication_title": "Hawaii International Conference on System Sciences 2024 (HICSS-57)",
+            "author": [
+                "Georgios Balaskas",
+                "Homer Papadopoulos",
+                "Antonis Korakis"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Georgios Balaskas",
+                "Homer Papadopoulos",
+                "Antonis Korakis"
+            ],
+            "publication_link": "http://aisel.aisnet.org/hicss-57",
+            "download_format": "pdf",
+            "url": "http://aisel.aisnet.org/hicss-57/hc/ecosystems/4",
+            "publication_date": "01/2024",
+            "title": "Leveraging Large Language Models for Simplified Patient Summary Generation, Literature Retrieval and Medical Information Summarization: A Health CASCADE Study",
+            "download_link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1437&context=hicss-57"
+        },
+        {
+            "document_type": [
+                "presentation",
+                "Presentation",
+                "Presentations"
+            ],
+            "context_key": "36911295",
+            "institution_title": "Arkansas Tech University",
+            "publication_title": "ATU Research Symposium",
+            "author": [
+                "Sijan Panday",
+                "Zurab Sabakhtarishvili",
+                "Clayton Jensen"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Sijan Panday",
+                "Zurab Sabakhtarishvili",
+                "Clayton Jensen"
+            ],
+            "publication_link": "http://orc.library.atu.edu/atu_rs",
+            "download_format": "pdf",
+            "url": "http://orc.library.atu.edu/atu_rs/2024/2024/12",
+            "publication_date": "04/2024",
+            "title": "Optimizing Campus Chat-bot Experience Using PUAA: Integrating Large Language Model (LLM) into University AI Assistants",
+            "download_link": "https://orc.library.atu.edu/cgi/viewcontent.cgi?article=1113&context=atu_rs"
+        },
+        {
+            "context_key": "17909549",
+            "institution_title": "Association for Information Systems",
+            "publication_title": "Hawaii International Conference on System Sciences 2019 (HICSS-52)",
+            "author": [
+                "Joshua Madden",
+                "Veda C. Storey",
+                "Richard Baskerville",
+                "Richard L. Baskerville"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Joshua Madden",
+                "Veda C. Storey",
+                "Richard Baskerville"
+            ],
+            "publication_link": "http://aisel.aisnet.org/hicss-52",
+            "download_format": "pdf",
+            "url": "http://aisel.aisnet.org/hicss-52/os/design_science_research/6",
+            "publication_date": "01/2019",
+            "title": "Identifying Authorship from Linguistic Text Patterns",
+            "download_link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1714&context=hicss-52"
+        },
+        {
+            "context_key": "37799238",
+            "institution_title": "Association for Information Systems",
+            "publication_title": "ICIS 2024 Proceedings",
+            "author": [
+                "Rainer Schmidt",
+                "Rainer Alt",
+                "ALFRED ZIMMERMANN",
+                "Alfred Zimmermann"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Rainer Schmidt",
+                "Rainer Alt",
+                "ALFRED ZIMMERMANN"
+            ],
+            "publication_link": "http://aisel.aisnet.org/icis2024",
+            "download_format": "pdf",
+            "url": "http://aisel.aisnet.org/icis2024/digtech_fow/digtech_fow/19",
+            "publication_date": "12/2024",
+            "title": "Generative Assistants for Handling Incidents in IT Service Management",
+            "download_link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1045&context=icis2024"
+        },
+        {
+            "document_type": [
+                "paper",
+                "Paper",
+                "Papers"
+            ],
+            "context_key": "34098878",
+            "institution_title": "Ohio Northern University",
+            "publication_title": "ONU Student Research Colloquium",
+            "author": [
+                "Logan Reichling"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Logan Reichling"
+            ],
+            "publication_link": "http://digitalcommons.onu.edu/student_research_colloquium",
+            "download_format": "native",
+            "url": "http://digitalcommons.onu.edu/student_research_colloquium/2023/papers/20",
+            "publication_date": "04/2023",
+            "title": "Ensuring Accuracy and Engagement in Robots using Large Language Models",
+            "download_link": "https://digitalcommons.onu.edu/context/student_research_colloquium/article/1282/type/native/viewcontent"
+        },
+        {
+            "document_type": [
+                "event",
+                "Event",
+                "Events"
+            ],
+            "context_key": "37904970",
+            "institution_title": "Kennesaw State University",
+            "publication_title": "C-Day Computing Showcase",
+            "author": [
+                "Roshni Satish",
+                "Arpana Challa"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Roshni Satish",
+                "Arpana Challa"
+            ],
+            "publication_link": "http://digitalcommons.kennesaw.edu/cday",
+            "download_format": "pdf",
+            "url": "http://digitalcommons.kennesaw.edu/cday/Fall_2024/Masters_Research/9",
+            "publication_date": "11/2024",
+            "title": "GMR-229 Semantic Search using Sentence Transformers",
+            "download_link": "https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=1499&context=cday"
+        },
+        {
+            "context_key": "37308621",
+            "institution_title": "Association for Information Systems",
+            "publication_title": "Hawaii International Conference on System Sciences 2024 (HICSS-57)",
+            "author": [
+                "Cayden Dunn",
+                "Navid Hashemi Tonekaboni"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Cayden Dunn",
+                "Navid Hashemi Tonekaboni"
+            ],
+            "publication_link": "http://aisel.aisnet.org/hicss-57",
+            "download_format": "pdf",
+            "url": "http://aisel.aisnet.org/hicss-57/ks/design/2",
+            "publication_date": "01/2024",
+            "title": "Transforming Generative Large Language Models' Limitations into Strengths using Gestalt: A Synergetic Approach to Mathematical Problem-Solving with Computational Engines",
+            "download_link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1260&context=hicss-57"
+        },
+        {
+            "institution_title": "University for Business and Technology in Kosovo",
+            "context_key": "13170821",
+            "publication_title": "UBT International Conference",
+            "author": [
+                "J. Jovanovska",
+                "I. Bozhinova",
+                "K. Zdravkova"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "J. Jovanovska",
+                "I. Bozhinova",
+                "K. Zdravkova"
+            ],
+            "publication_link": "http://knowledgecenter.ubt-uni.net/conference",
+            "url": "http://knowledgecenter.ubt-uni.net/conference/2017/all-events/101",
+            "publication_date": "10/2017",
+            "title": "Question answering enhanced with a window function"
+        },
+        {
+            "document_type": [
+                "poster",
+                "Poster",
+                "Posters"
+            ],
+            "institution_title": "Himmelfarb Health Sciences Library, The George Washington University",
+            "context_key": "8427974",
+            "publication_title": "GW Research Days 2016 - 2020",
+            "author": [
+                "Marquise Hopson",
+                "Neal K. Sikka",
+                "Charles Jankowski",
+                "Anne Thyme-Gobbel"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Marquise Hopson",
+                "Neal K. Sikka",
+                "Charles Jankowski",
+                "Anne Thyme-Gobbel"
+            ],
+            "publication_link": "http://hsrc.himmelfarb.gwu.edu/gw_research_days",
+            "url": "http://hsrc.himmelfarb.gwu.edu/gw_research_days/2016/SMHS/155",
+            "publication_date": "03/2016",
+            "title": "Natural Language Inputs for Medication Reconciliation: A Feasibility Study"
+        },
+        {
+            "document_type": [
+                "thesis_defense",
+                "Thesis Defense",
+                "Thesis Defenses"
+            ],
+            "context_key": "37731450",
+            "institution_title": "United Arab Emirates University",
+            "publication_title": "Thesis/ Dissertation Defenses",
+            "author": [
+                "Shamma Humaid Alalawi"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Shamma Humaid Alalawi"
+            ],
+            "publication_link": "http://scholarworks.uaeu.ac.ae/thesis_dissertation_defense",
+            "download_format": "pdf",
+            "url": "http://scholarworks.uaeu.ac.ae/thesis_dissertation_defense/2024-2023/thesis_defenses/69",
+            "publication_date": "04/2024",
+            "title": "UNVEILING THE ORIGINS OF SOURCE CODE THROUGH AUTHORSHIP ATTRIBUTION: A COMPARATIVE STUDY OF AI AND HUMAN CODING PATTERNS",
+            "download_link": "https://scholarworks.uaeu.ac.ae/cgi/viewcontent.cgi?article=1069&context=thesis_dissertation_defense"
+        },
+        {
+            "context_key": "17896700",
+            "institution_title": "Association for Information Systems",
+            "publication_title": "Hawaii International Conference on System Sciences 2019 (HICSS-52)",
+            "author": [
+                "Souvick Ghosh",
+                "Chirag Shah"
+            ],
+            "peer_reviewed": false,
+            "author_display": [
+                "Souvick Ghosh",
+                "Chirag Shah"
+            ],
+            "publication_link": "http://aisel.aisnet.org/hicss-52",
+            "download_format": "pdf",
+            "url": "http://aisel.aisnet.org/hicss-52/dsm/data_mining/6",
+            "publication_date": "01/2019",
+            "title": "Toward Automatic Fake News Classification",
+            "download_link": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1270&context=hicss-52"
+        }
+    ],
+    "start": "0"
+}
