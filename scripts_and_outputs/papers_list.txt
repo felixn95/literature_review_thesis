@@ -1,0 +1,71 @@
+Abdelghani2015_Question Answering SystemsSurvey and Trends
+Abdullahi2024_Retrieval-Based Diagnostic Decision SupportMixed Methods Study
+Adindla2011_Combining_the_Best_of_Two_Worlds_NLP_and_IR_for_Intranet_Search
+Affum2023_Investigating_the_Potential_AI_Libaries
+Ahn20222_Retrieval-Augmented_Response_Generation_for_Knowledge-Grounded_Conversation_in_the_Wild
+Alonso2024_Some Useful Things to Know When Combining IR and NLP
+Amato2023_An_Intelligent_Conversational_Agent_for_the_Legal_
+Andreasen2024_The power and potentials of Flexible Query Answering Systems
+Arslan2024_Sustainable Digitalization of Business with Multi-Agent RAG and LLM
+Bai2020_Enhanced_Natural_Language_Interface_for_Web-Based_Information_Retrieval
+Balaskas2024_Leveraging Large Language Models for Simplified Patient Summary G
+Bargi2022_AN OVERVIEW OF CHATBOTS USAGE IN RECRUITMENT AND SELECTION PRACTI
+Byun2024_DesignAndImplInteractiveRAG
+CHATTERJEE2022_Automated_Question-Answering_for_Interactive_Decision_Support_in_Operations_amp_Maintenance_of_Wind_Turbines
+Chen2021_ConversationBasedChatbotFacilityMM
+Chen2023_Beyond factuality_ A comprehensive evaluation of large language m
+Cheng2024_Exploring a learning-to-rank approach to enhance the Retrieval Augmented Generation (RAG)-based electronic medical records search engines
+Clark2012_Automatically structuring domain knowledge from text
+Cream2024_Medical_Information_Extraction_With_NLP-Powered_QABots_A_Real-World_Scenario
+Dai2024_Bias and Unfairness in Information Retrieval SystemsNew Challenges in the LLM Era
+Djella2013_A_New_Digital_Conceptual_Model_Oriented_Corporate_
+Faccia2022_NLP And IR Applications For Financial Reporting And Non-Financial Disclosure. Framework Implementation And Roadmap For Feasible Integration With The Accounting Process
+Gao2021_Advances and challenges in conversational recommender systemsA survey
+Ge2024_An_Innovative_Solution_to_Design_Problems_Applying_the_Chain-of-Thought_Technique_to_Integrate_LLM-based_Agents_with_Concept_Generation_Methods
+Ghaesmi2024_Harnessing_the_Power_of_Metadata_for_Enhanced_Question_Retrieval_in_Community_Question_Answering
+Guo2024_KnowledgeNavigator_leveraging large language models for enhanced reasoning over knowledge grap
+He2017_Entity_Linking_An_Issue_to_Extract_Corresponding_Entity_With_Knowledge_Base
+Ibrihicha2022_A Review on recent research in information retrieval
+Kejriwal2021_A meta-engine for building domain-specific search engines
+Khalafi2018_SVM_for_IR
+Kodra2017_Question_Answering_Systems_A_Review_on_Present_Developments
+LegalReasoner_A_Multi-Stage_Framework_for_LegWang2024_al_Judgment_Prediction_via_Large_Language_Models_and_Knowledge_Integration
+Lei2022_A Domain Specific Multi-Document Reading Comprehension
+Li2023_A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge
+Lim2023_False Positive Intent Detection Framework for Chatbot Annotation
+Lim2024_Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models
+Liu2024_Information Retrieval Meets Large Language Models
+Marrero2012_Information Retrieval Systems Adapted to the Biomedical Domain
+Maxwell2010_Natural language processing and query expansion in legal information retrieval  Challenges and a response
+McKe2022_Conversational Voice Assistants and a Case Study of Long-Term Users  A Human Information Behaviours Perspective
+Mishra2016_A survey on question answering systems with classification
+Moric_2024_IntegratinVirtualAssistantRAG
+Ojokoh2018_A_Review_of_Question_Answering_Systems
+Paramasivam2022_A survey on textual entailment based question answering
+pichman2024_knowledge-powered-by-artificial-intelligence
+Preininger2021_Differences in information accessed in a pharmacologic knowledge base using a conversational agent vs traditional search methods
+Qingyao2023_LLM_IR_Systems
+Ramakrishnan2024Revolutionizing_Campus_Communication
+Rasol2024_Evaluating LLMs on document-based QA
+Russel2022Interactive_query_expansion_for_professional_searc
+Sam2007_answering-engineers-questions-using-semantic-annotations
+Samant2024_NLP-based smart decision making for business and academics
+Schmidt2024_Generative Assistants for Handling Incidents in IT Service Manage
+Seo2022_Hybrid Retriever System for Industrial Frequently Asked Questions
+Sharma2023_Machine learning and ontology-based novel semantic document indexing
+Simone2024_Leveraging AI for Current Research Information Systems
+song2020_A Tourist Attraction Retrieval Framework Based on Multi-Layer Knowledge Graph
+Tasar2018_Systematic mapping study on question answering frameworks over linked data
+Tin2024_Interactive_ChatBot_for_PDF_Content_Conversation
+Upadhyay2024_A comprehensive survey on answer generation methods using NLP
+Uthayan2015_Hybrid Ontology for Semantic Information Retrieval Model Using Keyword
+Vargas2010_ClosedDomainQA
+Wang2024_Utilizing BERT for Information Retrieval
+Xu2024_Towards Seamless User Query to REST API Conversion
+Yang2024_RDguru_A_Conversational_Intelligent_Agent_for_Rare_Diseases
+Yuanpeng2021_Research on Knowledge Driven Intelligent Question Answering System for Electric Power Customer Service
+Zhang2023_Unleashing_the_Power_of_Large_Language_M
+Zhang2024_Large language model powered agents for information retrieval
+Zhou2003_NLPIR  A theoretical framework for
+Zhou2024_Enhancing LLM Agents with Step-Wise Thought Retrieval
+Zweng2023_Dynamic prompt-based virtual assistant framework for BIM information search
